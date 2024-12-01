@@ -1,5 +1,8 @@
 # Cybersecurity-News-Dashboard
 
+
+![image](https://github.com/user-attachments/assets/4e9fe8e0-f6a9-42cb-a490-762097302b27)
+
 ## Features 
 
 - Fetch news from multiple RSS feeds 
