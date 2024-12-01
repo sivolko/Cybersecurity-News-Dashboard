@@ -1,0 +1,5 @@
+streamlit
+feedparser
+pandas
+matplotlib
+textblob
