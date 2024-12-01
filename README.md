@@ -61,3 +61,9 @@ docker run -p 8501:8501 sivolko/cybersecurity-news-dashboard:latest
 
 ```
 3. Open your browser and go to http://localhost:8501 to access the app.
+
+4. Directly Pull Image from Docker Hub
+   ```
+    docker pull sivolko/cybersecurity-news-dashboard
+   ```
+   ![image](https://github.com/user-attachments/assets/44057396-1c3a-425d-a772-202861ef8460)
