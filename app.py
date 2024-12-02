@@ -12,7 +12,7 @@ def fetch_feed(url):
 
 # Default list of RSS feed URLs
 default_rss_feeds = {
-    'Bleeping Computer': 'https://www.bleepingcomputer.com/feed/',
+    'Bleeping Computer': 'https://social.cyware.com/allnews/feed',
     'The Hacker News': 'https://feeds.feedburner.com/TheHackersNews',
     # Add more default RSS feed URLs here
 }
